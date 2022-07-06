@@ -1,4 +1,4 @@
-package com.mobicule.sana.fragmentexample;
+package com.example.sana.fragmentexample;
 
 import android.app.Fragment;
 import android.os.Bundle;
@@ -11,7 +11,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import static com.mobicule.sana.fragmentexample.R.id.fTextFragment;
+import static com.example.sana.fragmentexample.R.id.fTextFragment;
 
 /**
  * Created by sana on 12/5/18.

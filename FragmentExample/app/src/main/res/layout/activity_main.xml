@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:weightSum="1"
-        tools:context="com.mobicule.sana.fragmentexample.MainActivity">
+        tools:context="com.example.sana.fragmentexample.MainActivity">
 
 
         <fragment
@@ -18,14 +18,14 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="0.5"
-            class="com.mobicule.sana.fragmentexample.MenuFragment"/>
+            class="com.example.sana.fragmentexample.MenuFragment"/>
 
         <fragment
             android:id="@+id/fTextFragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="0.5"
-            class="com.mobicule.sana.fragmentexample.TextFragment"/>
+            class="com.example.sana.fragmentexample.TextFragment"/>
 
     </LinearLayout>
     <android.support.design.widget.CoordinatorLayout

@@ -1,4 +1,4 @@
-package com.mobicule.sana.fragmentexample;
+package com.example.sana.fragmentexample;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
