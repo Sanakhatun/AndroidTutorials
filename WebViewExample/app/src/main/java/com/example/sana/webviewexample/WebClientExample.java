@@ -1,4 +1,4 @@
-package com.mobicule.sana.webviewexample;
+package com.example.sana.webviewexample;
 
 import android.app.Activity;
 import android.content.Intent;
